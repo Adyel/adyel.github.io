@@ -2,10 +2,10 @@
 layout: about
 ---
 
-Hello, my name is Adyel. Figuring out how Web works.
+Hello, my name is Adyel. Figuring out how Internet works.
 
 # What do you do?
-Fresher BSc CSE Student. Don't know anyhing yet.
+Fresh graduate from CS at BracU. Current job is a associate software enginner at [Therap LLC](https://www.therapservices.net).
 
 # What programming languages do you use?
-I know Basic/Intermadiate C++
+I am most comforted with Java, Kotlin, TypeScript, and Python. Have some experience with C++ with QT framework. Love the concepts of Rust programming language. Plaing with the idea of functional programming for a while now.
